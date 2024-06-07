@@ -1,5 +1,11 @@
-## Hi there 👋
+# Hi, I'm Tessa 👋
 
+<img src="https://github.com/redshoes11/redshoes11/assets/80873008/0adbf9fc-0033-4345-9ffe-197b4f33a824" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+I am a Computer Science undergraduate at the University of North Sumatra. Focuses on data analytics, data science and machine learning. I am known for my dedication to hard work, strong teamwork skills, and effective communication within collaborative environments. My goal is continued growth and meaningful contributions in this field, as well as fostering innovative collaborations along the way.
+
+## Find me
+- Social media <a href="https://twitter.com/tessaagithaa">Twitter</a> or <a href="https://tessa-portofolio.vercel.app/">My Portofolio</a> 📹✍🏾
+- Let's connect on <a href="https://www.linkedin.com/in/tessa-agitha-irwani-br-barus/">LinkedIn</a> 💼
 <!--
 **redshoes11/redshoes11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
